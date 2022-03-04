@@ -10,6 +10,7 @@ TheGeneral's own words were "dont like it then dont use it". We did not like wha
 ## License ##
 Arcturus Morningstar is released under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
+
 ## Versions ##
 [![image](https://img.shields.io/badge/VERSION-3.0.0-success.svg?style=for-the-badge&logo=appveyor)](#)
 [![image](https://img.shields.io/badge/STATUS-STABLE-blue.svg?style=for-the-badge&logo=appveyor)](#)
