@@ -31,7 +31,6 @@ jobs:
     - name: Build Plugins
       run: mvn clean -B package --file pom.xml
     - run: mkdir staging && cp target/*-jar-with-dependencies.jar staging
-    - run: cp *.sql staging
     - uses: actions/upload-artifact@v1
       with:
             name: Emulator
